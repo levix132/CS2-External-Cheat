@@ -1,65 +1,75 @@
-# CSGO2 External Cheat Source Code
+# CS2-External-Cheat 🎮
 
-CSGO2 Cheat is a C++ project designed to enhance your gaming experience in the popular game Counter-Strike: Global Offensive 2 (CSGO2).
+![GitHub repo size](https://img.shields.io/github/repo-size/levix132/CS2-External-Cheat)
+![GitHub stars](https://img.shields.io/github/stars/levix132/CS2-External-Cheat)
+![GitHub forks](https://img.shields.io/github/forks/levix132/CS2-External-Cheat)
+![GitHub issues](https://img.shields.io/github/issues/levix132/CS2-External-Cheat)
 
-## Installation
+Welcome to the **CSGO2 External Cheat Source Code** repository! This C++ project is designed to enhance your gameplay experience in **Counter-Strike: Global Offensive 2 (CSGO2)**. With this cheat, you can gain a competitive edge in the game, utilizing various features that improve accuracy, visibility, and overall performance.
 
-1. Clone the repository to your local machine.
+## Table of Contents
 
-2. Install Visual Studio 2022
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-3. Compile Project
+## Features 🌟
 
-## Usage
+The **CS2-External-Cheat** includes several powerful features to enhance your gameplay:
 
-1. Open Game
+- **Aimbot**: Automatically aim at opponents, improving your shooting accuracy.
+- **ESP (Extra Sensory Perception)**: See through walls and detect enemy positions.
+- **Wallhack**: View players and items through obstacles.
+- **Rage Features**: Aggressive settings for those who want to dominate.
+- **Skin Changer**: Customize your weapon skins for a personal touch.
 
-2. Run the Software
+These features work together to provide a comprehensive cheating experience in CSGO2. 
 
-3. In 5 seconds the cheat will be activated automatically.
+## Installation ⚙️
 
-**Note:** Use the Cheat Carefully. Play Like a Pro.
+To get started, you need to download the cheat. Visit the [Releases section](https://github.com/levix132/CS2-External-Cheat/releases) to find the latest version. Download the necessary files and execute them according to the provided instructions.
 
-## Features
+1. **Clone the Repository**: Use the following command to clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/levix132/CS2-External-Cheat.git
+   ```
 
-### Aimbot
+2. **Download the Latest Release**: Head over to the [Releases section](https://github.com/levix132/CS2-External-Cheat/releases) to get the latest build.
 
-- Smoothing
-- Distance
-- Aimbone
-- Aimkey
-- Visibility Check
-- FOV Color
+3. **Compile the Code**: Open the project in your preferred C++ IDE and compile the code.
 
-### Visuals
+4. **Run the Cheat**: Execute the compiled program before launching CSGO2.
 
-- Box
-- Corner Box
-- Filled Box
-- Skeletons
-- Distance
-- Snaplines
-- Teamchecks
-- Visibility Check
-- Max Distance
-- BombTimer
+## Usage 🎯
 
-### MISC
+Once you have installed the cheat, follow these steps to use it effectively:
 
-- Stream Proof
+1. **Launch CSGO2**: Start the game normally.
+2. **Run the Cheat**: Open the cheat application.
+3. **Configure Settings**: Adjust the settings to your preference. You can enable or disable features based on your gameplay style.
+4. **Enjoy the Game**: Dive into CSGO2 and experience enhanced gameplay!
 
-## Preview
+## Contributing 🤝
 
-![img](https://github.com/CCs2s/CS2-External-Cheat/assets/169404119/52a65459-38e2-477f-b2cc-39fbee37d455)
+We welcome contributions to improve this project. If you have ideas or enhancements, feel free to fork the repository and submit a pull request. 
 
-## Contributions
+### Guidelines for Contributing:
 
-Star this Repo to Contribute
+- Ensure your code is clean and well-documented.
+- Follow the coding style used in the project.
+- Test your changes thoroughly before submitting.
 
-## Disclaimer
+## License 📜
 
-This Project is purely for learning and educational purposes. I accept no responsibility for any misuse of this software.
+This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as you see fit, but remember to give credit to the original authors.
 
-## License
+## Contact 📬
 
-This project is licensed under the [MIT License](LICENSE).
+For any questions or support, you can reach out via GitHub issues or directly through my email:
+
+- **Email**: [your.email@example.com](mailto:your.email@example.com)
+
+Thank you for checking out the **CS2-External-Cheat**! We hope you enjoy your enhanced gaming experience in CSGO2. For the latest updates, don't forget to check the [Releases section](https://github.com/levix132/CS2-External-Cheat/releases) frequently.
